@@ -1,0 +1,23 @@
+{
+  "name": "api_rest_projet",
+  "version": "1.0.0",
+  "description": "Projet API REST cours nodjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azelnoo/projet_rest_api.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "Emmanuel Dequidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azelnoo/projet_rest_api/issues"
+  },
+  "homepage": "https://github.com/Azelnoo/projet_rest_api#readme"
+}
